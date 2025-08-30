@@ -10,7 +10,6 @@ Generative AI applications.
 Generative AI impact of scaling in LLMs.
 
 ## Algorithm:
-Algorithm:
 
 Understand the Basics of Generative AI:
 Define Generative AI and its purpose.
@@ -34,6 +33,7 @@ Ensure report is descriptive and easy to follow.
 
 ## Output
 1. Foundational Concepts of Generative AI:
+
 Generative AI refers to a class of artificial intelligence models that can create new data rather than just analyzing existing data.
 Unlike traditional AI, which classifies or predicts based on patterns, generative AI produces content such as text, images, code, music, and even videos.
 Key foundational elements:
@@ -42,6 +42,7 @@ Training Data: Large, diverse datasets are crucial for capturing real-world comp
 Learning Approach: Mostly unsupervised or self-supervised learning.
 
 2. Generative AI Architectures:
+
 a) Variational Autoencoders (VAEs):
 Encode data into a latent space and decode back to generate new samples.
 Often used for image synthesis with smooth latent space interpolation.
@@ -56,6 +57,7 @@ Parallelizable, making them scalable for massive datasets.
 Examples: GPT, BERT, LLaMA.
 
 3. Applications of Generative AI:
+
 Generative AI has a wide range of applications:
 Text Generation: Chatbots, summarization, translation (e.g., ChatGPT).
 Code Generation: AI pair programmers like GitHub Copilot.
@@ -65,17 +67,19 @@ Drug Discovery: Generating novel molecular structures.
 Education & Research: Personalized learning content, idea generation.
 
 4. Impact of Scaling in LLMs:
+
 Scaling LLMs refers to increasing model size, data, and compute power, which has led to remarkable improvements in performance:
 Better Generalization: Larger models perform better across tasks without fine-tuning.
 Emergent Abilities: Few-shot and zero-shot learning capabilities appear at certain scales.
 Human-Like Responses: Produces coherent, context-aware conversations.
 
 Challenges:
+
 Compute Cost: Training requires massive resources.
 Bias & Safety: Bigger models can amplify biases in training data.
 Energy Consumption: Raises concerns for sustainability.
 
-[Uploading EXP-1_Prompt_Engineering_Report.pdf…]()
+[EXP-1_Prompt_Engineering_Report_Aligned.pdf](https://github.com/user-attachments/files/22057101/EXP-1_Prompt_Engineering_Report_Aligned.pdf)
 
 
 ## Result
