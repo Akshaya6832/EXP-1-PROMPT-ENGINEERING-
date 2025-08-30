@@ -79,7 +79,8 @@ Compute Cost: Training requires massive resources.
 Bias & Safety: Bigger models can amplify biases in training data.
 Energy Consumption: Raises concerns for sustainability.
 
-[EXP-1_Prompt_Engineering_Report_Aligned.pdf](https://github.com/user-attachments/files/22057101/EXP-1_Prompt_Engineering_Report_Aligned.pdf)
+[EXP-1_Prompt_Engineering_Report_Formal.pdf](https://github.com/user-attachments/files/22057169/EXP-1_Prompt_Engineering_Report_Formal.pdf)
+
 
 
 ## Result
